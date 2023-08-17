@@ -1,0 +1,17 @@
+.hidden{
+    display: none;
+}
+
+
+.options{
+    background-color: red;
+    border-radius: 30px;
+    padding: 8px;
+}
+div button.cancel-button{
+    background-color: transparent;
+    border: none;
+    padding: 0;
+    margin: 0 auto;
+    text-align: center;
+}
